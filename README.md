@@ -1,13 +1,3 @@
-
-# easier self bot
-
-I made this just for fun but you can fork it or use it for your own projects
-
-# what does it do?
-its made for self bots that are used in discord and highly customizable 
-
-# how do i use it?
-
 # easier self bot
 
 I made this just for fun but you can use it for your own projects
