@@ -48,3 +48,6 @@ from easier_selfbot import send_message, read_last_message, spam_message
 easier_selfbot.token = "discord_token"
 easier_selfbot.channel_id = "channel_id"
 ```
+
+
+if u need support u can go on https://discord.gg/qnhdBMMr8q
